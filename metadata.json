@@ -1,0 +1,6 @@
+{
+  "name": "BioLume Health — 스마트 건강관리 앱",
+  "description": "실시간 걸음수, 수면 패턴 분석, 칼로리 소모량 및 신체 활력 지표를 모니터링하는 프리미엄 바이오 헬스케어 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
